@@ -1,0 +1,41 @@
+header {background-color: mediumpurple;}
+body {background-color: #121212;}
+h1 {
+    color: #fafafa;
+    font-family: "Comic Sans MS",serif;
+    text-align: center;
+}
+.maintext, h2 {
+    color: lightpink;
+    font-family: "Comic Sans MS",serif;
+    text-align: justify;
+    margin-right: 30%;
+    margin-left: 6%;
+    clear: left;
+    text-decoration: lightpink;
+}
+.caption {
+    color: lightpink;
+    font-family: "Comic Sans MS",serif;
+    float:right;
+    text-align: right;
+    clear: right;
+    margin-right: 6%;
+    margin-left: 6%
+}
+footer {
+    color: lightpink;
+    font-family: "Comic Sans MS",serif;
+    text-align: justify;
+    position:fixed;
+    bottom:1px;
+    margin-left:6%;
+}
+header a {
+    text-decoration: none;
+}
+.inline-link {
+    color: lightpink;
+    font-family: "Comic Sans MS",serif;
+    display:inline-block;
+}
