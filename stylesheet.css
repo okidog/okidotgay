@@ -21,15 +21,17 @@ h1 {
     text-align: right;
     clear: right;
     margin-right: 6%;
-    margin-left: 6%
+    margin-left: 6%;
 }
 footer {
     color: lightpink;
     font-family: "Comic Sans MS",serif;
     text-align: justify;
     position:fixed;
-    bottom:1px;
+    bottom:5px;
     margin-left:6%;
+    background-color:#121212;
+    width:100%;
 }
 header a {
     text-decoration: none;
