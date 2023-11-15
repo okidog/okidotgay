@@ -28,8 +28,10 @@ footer {
     font-family: "Comic Sans MS",serif;
     text-align: justify;
     position:fixed;
-    bottom:5px;
+    bottom:0;
     margin-left:6%;
+    padding-bottom: 5px;
+    padding-right: 4%;
     background-color:#121212;
     width:100%;
 }
@@ -40,4 +42,10 @@ header a {
     color: lightpink;
     font-family: "Comic Sans MS",serif;
     display:inline-block;
+}
+.bullet-img {
+    margin-left:2%;
+    width:4%;
+    height:auto;
+    margin-right:2%;
 }
